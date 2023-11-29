@@ -19,4 +19,5 @@ As an Intel computer vision evangelist and an openSUSE Linux ambassador, I aim t
 - CUDA
 - openSUSE Linux
 - Yolo
+  
 [![image](https://github.com/cabelo/VirConI/assets/675645/0d981824-f4f4-48d1-9cce-e4eabad89bda)](https://www.youtube.com/watch?v=R8b6nZLMA40)
